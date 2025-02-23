@@ -115,5 +115,5 @@ TRUNCATE TABLE tasks, users RESTART IDENTITY CASCADE;
 * Logging in with the registered user.
 * Creating, updating, and deleting tasks.
 ## Notes
-I expect the salary to be $4,333.33.
+I expect the salary to be $4,333.33 per month.
 Thank you for this opportunity!
