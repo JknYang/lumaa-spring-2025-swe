@@ -1,13 +1,3 @@
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Database Setup](#database-setup)
-- [Environment Variables](#environment-variables)
-- [Running the Backend](#running-the-backend)
-- [Running the Frontend](#running-the-frontend)
-- [Testing](#testing)
-- [Notes](#notes)
-
 ## Prerequisites
 
 Make sure you have the following installed on your machine:
@@ -117,3 +107,6 @@ TRUNCATE TABLE tasks, users RESTART IDENTITY CASCADE;
 ## Notes
 I expect the salary to be $4,333.33 per month.
 Thank you for this opportunity!
+
+## Video
+https://imgur.com/0u3Bo9T
